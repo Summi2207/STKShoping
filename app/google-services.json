@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432998442181",
+    "project_id": "my-mall-4f2b8",
+    "storage_bucket": "my-mall-4f2b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432998442181:android:dc0a4ec9bb1b1b8090fcac",
+        "android_client_info": {
+          "package_name": "com.stk.STK_Shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432998442181-lue50gq7vo5av1ovsi8g8nq38r8va88d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFiR9_FmwDG4c84WuO3wmQ27fCz6xyWH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432998442181-lue50gq7vo5av1ovsi8g8nq38r8va88d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
